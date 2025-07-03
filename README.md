@@ -30,3 +30,4 @@ var albums = []album{
 | GET    | `/albums`     | Devuelve la lista completa de álbums |
 | POST   | `/albums`     | Añade un nuevo álbum (recibe JSON)   |
 | GET    | `/albums/:id` | Devuelve un álbum por su `id`        |
+
